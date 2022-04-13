@@ -7,6 +7,6 @@ JavaScript was my introduction to all basic programming concepts. <br>
 - I am seeking to join a CREATIVE and COMMUNICATIVE programming team work environment. <br>
 - 📫 Please, you can write to me at: harrylong96@yahoo.com or alternatively: harrylong96@hotmail.com <br> <br>
 
-Have a great day and please write me a message.
-Kind Regards,
+Have a great day and please write me a message. <br>
+Kind Regards, <br>
 Harry Long
