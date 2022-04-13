@@ -1,5 +1,6 @@
 Hello, <br> <br> My name is Harry. <br> <br>
 I love to:
+- Build Websites, games and other applications that provide value <br>
 - learn languages, perform music, and do programming, of course! <br>
 - In recent months, I have been learning C# .NET and REACTjs. <br> 
 JavaScript was my introduction to all basic programming concepts. <br>
